@@ -1,0 +1,6 @@
+{
+    "Apis": {
+        "Dev": "Api de desarrollo",
+        "Prod": "Api de producción"
+    }
+}
